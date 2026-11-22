@@ -1,0 +1,12 @@
+{
+  "title": "AnuFontsLabStudio",
+  "description": "",
+  "made_with": "Sketchware AI",
+  "publish_number": 1,
+  "published_at": 1795344016681,
+  "version_name": "001 Anufonts",
+  "version_code": "5",
+  "action": "published",
+  "changelog": "## AiTechApps v001 Anufonts (5): first release\n\n- **23 screens**: AnudinbitsActivity.java, AnufontsActivity.java, AnukeypadActivity.java, AppActivity.java, CompletedaysActivity.java, DinbitsActivity.java, DownloadActivity.java, FontPreviewActivity.java and 15 more\n- 513 widgets, 6953 logic blocks, 89 MoreBlocks, 121 variables\n- Widgets: 173 Button, 121 LinearLayout, 81 TextView, 42 ImageView, 20 ListView, 17 EditText, 14 CardView, 10 TextInputLayout, 8 WebView, 6 ScrollView and 7 more\n- Custom views: text.xml, anu.xml, _drawer_main.xml, material_dialog.xml, description_dialog.xml, loading.xml, apk_view.xml, plp.xml and 4 more\n- Own files: 2 Java files, 31 assets\n- Components: Calendar, Camera, Dialog, File Picker, Intent, Location, RequestNetwork, SharedPreferences, SpeechToText, TextToSpeech and 1 more\n- Libraries: AppCompat \u0026 Material, colorpicker 0.0.15, datetimepicker 1.0.3, \u0027https , \u003c!-- https , glide-transformations 4.3.0, ZXING, appcompat 1.4.0, com.google.zxing-core-3.4.0\n- Permissions: ACCESS_BACKGROUND_LOCATION, ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION, ACCESS_LOCATION_EXTRA_COMMANDS, ACCESS_MEDIA_LOCATION, ACCESS_MOCK_LOCATION, CONTROL_LOCATION_UPDATES, FOREGROUND_SERVICE_LOCATION, INSTALL_LOCATION_PROVIDER, INSTALL_LOCATION_TIME_ZONE_PROVIDER_SERVICE, LOCATION_BYPASS, LOCATION_HARDWARE and 39 more\n- Android API 18 (API 18) to 15 (API 35)",
+  "stats_discussion": 1
+}
